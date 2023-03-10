@@ -22,6 +22,7 @@ body {
 }
 
 body {
+  font-family: 'Poppins', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
