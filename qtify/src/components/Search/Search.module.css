@@ -1,0 +1,21 @@
+.search {
+    border-radius: 8px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    padding: 14px 20px;
+    border: 1px solid var(--color-black);
+    width: 502px;
+    height: 48px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.searchbutton {
+    border-radius: 0px 8px 8px 0px;
+    padding: 14px 23px;
+    border: 1px solid var(--color-black);
+    height: 48px;
+}
