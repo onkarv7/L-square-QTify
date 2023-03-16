@@ -1,0 +1,31 @@
+.CardSection {
+    background-color: #121212;
+    padding: 10px;
+    padding-left: 20px;
+    color: #FFFFFF;
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid white; */
+}
+
+.card_title {
+    font-size: 32px;
+    line-height: 30px;
+    width: 100%;
+    height: 30px;
+    left: 6px;
+    top: 161px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.showbtn {
+    background-color: #121212;
+    border: hidden;
+    cursor: pointer;
+}
+
+.show {
+    color: #34C94B;
+    border: hidden;
+}
